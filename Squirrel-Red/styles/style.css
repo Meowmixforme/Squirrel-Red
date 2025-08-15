@@ -1,0 +1,87 @@
+/* Hide only sidebar collapse arrows */
+.st-emotion-cache-1egp75f e1nzilvr5 {
+    display: none !important;
+}
+
+/* Woodland Dark Theme - Base */
+.stApp {
+    background-color: #1E1E1E !important; 
+}
+
+/* Sidebar with slightly darker shade */
+[data-testid="stSidebar"], 
+.st-emotion-cache-1q1n0ol {    
+    background-color: #171717 !important;
+}
+
+/* Text in warm off-white */
+p, h1, h2, h3, h4, h5, h6, .stMarkdown, [data-testid="stText"] {
+    color: #FAFAF9 !important;
+}
+
+/* Buttons in chocolate brown */
+.stButton > button {
+    background-color: #8B4513 !important;
+    color: #FAFAF9 !important;
+}
+
+/* Hover states in lighter brown */
+.stButton > button:hover {
+    background-color: #D2691E !important;
+}
+
+/* Links in russet */
+a {
+    color: #CD853F !important;
+}
+
+/* Radio buttons and checkboxes */
+.stRadio label, .stCheckbox label {
+    color: #FAFAF9 !important;
+}
+
+/* Input fields */
+.stTextInput input, .stNumberInput input {
+    background-color: #171717 !important; 
+    color: #FAFAF9 !important;
+    border-color: #8B4513 !important;
+}
+
+/* Ensure sidebar text is visible */
+[data-testid="stSidebar"] [data-testid="stMarkdown"] {
+    color: #FAFAF9 !important;
+}
+
+/* Style any metrics or KPIs */
+[data-testid="stMetricValue"] {
+    color: #FAFAF9 !important;
+}
+
+/* Style plot backgrounds if any */
+.js-plotly-plot {
+    background-color: #1E1E1E !important; 
+}
+
+/* Style any tabs if used */
+.stTabs [data-baseweb="tab-list"] {
+    background-color: #171717 !important; 
+}
+
+.stTabs [data-baseweb="tab"] {
+    color: #FAFAF9 !important;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #8B4513 !important;
+}
+
+/* Style any expanders/collapsible sections */
+.streamlit-expanderHeader {
+    background-color: #171717 !important;  
+    color: #FAFAF9 !important;
+}
+
+/* Style any tooltips */
+.stTooltipIcon {
+    color: #CD853F !important;
+}

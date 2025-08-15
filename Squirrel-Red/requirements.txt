@@ -1,0 +1,15 @@
+streamlit
+pandas
+geopandas
+plotly
+folium
+streamlit-folium
+pymongo
+numpy
+scikit-learn
+libpysal
+scipy
+matplotlib
+seaborn
+tqdm
+shapely
