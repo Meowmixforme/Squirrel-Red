@@ -3,7 +3,8 @@
 ## Project Overview
 
 
-<img width="500" height="500" alt="470070590-ccf8ebc6-914f-483c-bdd4-5ea52e24a3a1" src="https://github.com/user-attachments/assets/bfcc5ccf-7f59-485c-b077-9df05aaf4c09" />
+
+<img width="500" height="500" alt="470070590-ccf8ebc6-914f-483c-bdd4-5ea52e24a3a1" src="https://github.com/user-attachments/assets/9f87bbbe-58d1-4ad4-b1e2-f46f552ab111" />
 
 
 
@@ -18,8 +19,7 @@ This project uses machine learning and spatial regression techniques to predict 
 - **Uncertainty Quantification:** Provides confidence intervals for predictions to support conservation decision-making
 
   
-
-<img width="929" height="901" alt="466092226-5d2d5f58-db8b-434a-a3ca-6e2df35a7db6" src="https://github.com/user-attachments/assets/a01f0b11-c8be-4809-97a9-36b56d411c9d" />
+<img width="929" height="901" alt="466092226-5d2d5f58-db8b-434a-a3ca-6e2df35a7db6" src="https://github.com/user-attachments/assets/90e564ab-adc5-4440-9528-a7566fde73d1" />
 
 
 
@@ -45,7 +45,7 @@ The system uses the Scottish Squirrel Database obtained via the NBN Atlas, conta
 - Created an intuitive application for exploring population trends and generating future predictions
 
 
-<img width="500" height="270" alt="466092660-ad141ba5-f1a9-4651-9ec2-0c79d5b95c7f" src="https://github.com/user-attachments/assets/8ed36ff3-57a2-4c51-a311-5ee201a7ccb3" />
+<img width="500" height="270" alt="466092660-ad141ba5-f1a9-4651-9ec2-0c79d5b95c7f" src="https://github.com/user-attachments/assets/19c3a003-8df8-4519-84fa-038a8316983d" />
 
 
 ## Installation and Usage
