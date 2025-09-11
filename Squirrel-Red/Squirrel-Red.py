@@ -82,7 +82,7 @@ def create_feature_matrix(boundaries, counts_df, year, W):
     return X
 
 load_dotenv()
-
+# secret is in github secrets - save in file named .env and place in the same directory as this code
 @st.cache_resource(show_spinner="Collecting acorns 🌰")
 def load_data():
     connection_string = os.getenv("MONGODB_URI")
