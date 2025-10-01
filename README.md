@@ -71,20 +71,6 @@ Potential enhancements include:
 - Environmental covariates to improve prediction accuracy
 - Real-time data collection interface for citizen scientists
 
-## License
-
-This project is available under the MIT License.
-
-MIT License
-
-Copyright (c) 2025 James Fothergill
-
-
-## Citation
-
-If you use this code or methodology in your research, please cite:
-
-James Fothergill. (2025). An Investigation into the use of Artificial Intelligence to monitor future squirrel populations in Scotland. Teesside University.
 
 ## Acknowledgments
 
