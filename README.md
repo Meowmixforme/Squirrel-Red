@@ -83,4 +83,4 @@ Potential enhancements include:
 
   Click on the thumbnail to view the Demonstration video
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/HIUu6iCYP1U/0.jpg)](https://www.youtube.com/watch?v=HIUu6iCYP1U)
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/9Vrj4yFTnJk/0.jpg)](https://youtu.be/9Vrj4yFTnJk)
